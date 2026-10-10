@@ -1,0 +1,15 @@
+# Local environments and credentials
+.venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Downloaded assets and generated results
+/data/
+/runs/
+/checkpoints/
+*.pt
+*.pth
+*.safetensors
